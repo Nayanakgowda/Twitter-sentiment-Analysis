@@ -24,5 +24,5 @@ Twitter Sentiment Analysis project using Python, Machine Learning, and NLP to cl
 3. Exploratory Data Analysis
 4. Feature Extraction
 5. Model Training
-6. Model Evaluation
+6. Model Evaluation.
 
